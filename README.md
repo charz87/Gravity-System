@@ -3,6 +3,8 @@ Gravity System trying to emulate Mario Galaxy style
 
 Core mechanics done:
 
-Player Movement according to Gravity System
+-Player Movement according to Gravity System
 
-Gravity System
+-Player Animation 
+
+-Gravity System
